@@ -6,9 +6,17 @@ layout: "layout"
 
 ## PC Windows 10
 
+### Link: <https://desktop.telegram.org/>
+
 <img src="pictures/telegram01.jpg"  width="960">
 
+<br>
+### Get Telegram for Windows x64
+
 <img src="pictures/telegram02.jpg"  width="960">
+
+<br>
+### Open (run) tsetup-x64.x.x.x.exe
 
 <img src="pictures/telegram03.jpg"  width="960">
 
