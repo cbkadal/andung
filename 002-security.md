@@ -28,6 +28,7 @@ layout: "layout"
 
 * Security Checkup
   * Click for Details
+  * REPEAT until "NO RECOMMENDED ACTION FOUND"
 
 <img src="pictures/security-04.jpg"  width="960">
 <br><br>
