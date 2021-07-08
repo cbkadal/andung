@@ -2,6 +2,6 @@
 layout: "layout"
 ---
 
-* [Telegram]({{ site.baseurl }}/001-telegram.html)
-* [Security]({{ site.baseurl }}/002-security.html)
+* [Installing Telegram]({{ site.baseurl }}/001-telegram.html)
+* [Google Account Security Check]({{ site.baseurl }}/002-security.html)
 
